@@ -5,13 +5,15 @@ from . import CLI;
 from . import TEL;
 
 from .OLDLog import logger;
+from .OLDLog import loggergetter;
 
 
 
 __all__ = [
     "CLI",
     "TEL",
-    "logger"
+    "logger",
+    "loggergetter"
 ]
 
 __author__ = "Tarcadia, Mundanity-fc";
