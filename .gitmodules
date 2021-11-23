@@ -1,6 +1,6 @@
-[submodule "TEL"]
-	path = src/OLD/TEL
-	url = https://github.com/Tarcadia/Telnet-Extend-Lib.git
-[submodule "CLI"]
+[submodule "src/OLD/CLI"]
 	path = src/OLD/CLI
 	url = https://github.com/Tarcadia/CLI-Lib-for-Interaction.git
+[submodule "src/OLD/TEL"]
+	path = src/OLD/TEL
+	url = https://github.com/Tarcadia/Telnet-Extend-Lib.git
