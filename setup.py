@@ -6,7 +6,7 @@ import setuptools
 
 
 _name = "Old-Linkage-Dev";
-_version = "0.0.4.1";
+_version = "0.0.4.2";
 _keywords = ["telnet", "CLI", "website"];
 _description = "a module to develop and apply old-style links";
 _url = "https://github.com/Tarcadia/Old-Linkage-Dev";
