@@ -7,6 +7,9 @@ idea of achieving old-school linkages.
 *Old-Linkage-Dev Group* works on varied things, like Telnet BBS, CLI, TUI. The
 aim of this group is to make these old linkages back into life.
 
+![图片](https://avatars.githubusercontent.com/u/95219044?s=200&v=4)
+
+
 ## Old-Linkage-Dev (OLD)
 Old Linkage Development is a module to develop and apply old-style links.
 Old-style links stand for some traditional or conventional way of access, like
