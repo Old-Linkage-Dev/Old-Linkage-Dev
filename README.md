@@ -1,4 +1,13 @@
-# Old-Linkage-Dev (OLD)
+# Old-Linkage-Dev Group
+*Old-Linkage-Dev Group* is a gourp of developers who is gathering to fulfill the
+idea of achieving old-school linkages.
+  *Old* means Old-school, traditional or vintage.
+  *Linkage* means the access methods between people, devices, or people and
+  devices, like the UI, Protocols and things like that.
+*Old-Linkage-Dev Group* works on varied things, like Telnet BBS, CLI, TUI. The
+aim of this group is to make these old linkages back into life.
+
+## Old-Linkage-Dev (OLD)
 Old Linkage Development is a module to develop and apply old-style links.
 Old-style links stand for some traditional or conventional way of access, like
 TTY, Telnet, Command Line Interface, BBS, etc. Sometimes we seek for the old
@@ -13,14 +22,14 @@ It now contains two main modules, that is
 1. Telnet Extend Lib (TEL)
 2. CLI Lib for Interaction (CLI)
 
-# Telnet Extend Lib (TEL)
+## Telnet Extend Lib (TEL)
 This is a set of simple Telnet tool kits, now supporting only few rfcs (RFC857,
 RFC858, RFC1091, RFC1073). However, that is adequate for applying an ASCII
 Animation site or a small BBS. Here are some examples:
 Still Alive:    telnet://dynascii.tarcadia.site:6023
 Bad Apple:      telnet://dynascii.tarcadia.site:6024
 
-# CLI Lib for Interaction (CLI)
+## CLI Lib for Interaction (CLI)
 This is a set of simple tools to develop a Command Line UI. It provides several
 designed draw methods, elements and a resource structure to organize the inter-
 action of it.
